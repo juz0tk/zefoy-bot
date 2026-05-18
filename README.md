@@ -2,6 +2,8 @@
 
 <h1 align="center">Grow your TikTok videos</h1>
 
+inspired by @platipus9999 for UI.
+
 ---
 
 ## :fire: Features
